@@ -26,7 +26,7 @@ PKGS=(
     # MEDIA ---------------------------------------------------------------
 
     'screenkey'                 # Screencast your keypresses
-    'lbry-app-bin'              # LBRY Linux Application
+    #'lbry-app-bin'              # LBRY Linux Application
 
     # COMMUNICATIONS ------------------------------------------------------
 
